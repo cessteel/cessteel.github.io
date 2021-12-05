@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="185" height="48" viewBox="0 0 185 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path d="M3.65621 0.79834H23.7731V17.0993H31.0078V47.7983H0V24.333V17.0993V0.79834H3.65621ZM23.6954 24.333H7.30464V40.5646H23.6954V24.333ZM16.4607 8.03207H7.30464V17.0993H16.4607V8.03207Z" fill="black"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="31" height="47" fill="white" transform="translate(0 0.79834)"/>
+    </clipPath>
+  </defs>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 3.45792px; font-weight: 700; letter-spacing: 1.8px; white-space: pre;" transform="matrix(2.617335, 0, 0, 4.627059, -94.707558, -45.105278)"><tspan x="49.691" y="15.157" style="font-size: 5.18688px;">BGA</tspan><tspan x="49.691" dy="0.9em">​</tspan><tspan style="font-size: 2.80956px;">GLOBAL SOLUTIONS</tspan></text>
+</svg>
